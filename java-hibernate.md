@@ -11,3 +11,7 @@
   * **fetch** - 
       * LAZY - fetch when needed
       * EAGER - fetch immediately
+* **@LazyCollection**
+  * **LazyCollectionOption.FALSE** - Eager-Loading
+  * **LazyCollectionOption.TRUE** - initialize the whole collection on first access
+  * **LazyCollectionOption.EXTRA** - .size() and .contains() won't initialize the whole collection
