@@ -14,3 +14,12 @@ kill javas<br>
 ```kill $(ps aux | grep "java" | grep -v 'grep' | awk '{print $2}')```
 
 ## Git
+
+Add .gitignore
+Commit all pending changes, then run this command:<br>
+
+```git rm -r --cached .```<br>
+This removes everything from the index, then just run:<br>
+```git add .```<br>
+Commit it:<br>
+```git commit -m ".gitignore is now working"```
