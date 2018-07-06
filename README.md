@@ -1,7 +1,8 @@
 # helper
 **Stuff about everything**
 
-## [Hibernate](java-hibernate.md)
+### [Hibernate](java-hibernate.md)
+### [Hibernate](java-hibernate.md)
 
 ## Linux
 
