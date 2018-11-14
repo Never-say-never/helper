@@ -18,7 +18,7 @@ kill javas<br>
 
 ## Git
 
-Aproved method(+)<br>
+Aproved method __(+)__ <br>
 Add .gitignore
 Commit all pending changes, then run this command:<br>
 
